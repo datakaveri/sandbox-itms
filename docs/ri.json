@@ -1,0 +1,104 @@
+[
+  {
+    "tags": [
+    ],
+    "type": [
+      "iudx:Resource",
+      "iudx:EmergencyVehicle"
+    ],
+    "description": "Archive for the period Jan01-Jan10 2022",
+    "@context": "https://voc.iudx.org.in/",
+    "label": "Ambulance Positions for January 01 - January 10 2022",
+    "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+    "name": "ambulancejan01jan10",
+    "itemStatus": "ACTIVE",
+    "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/bangalore-ambulance",
+    "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/ambulance-data/ambulance_jan_01_10.parquet",
+    "instance": "sandbox"
+  },
+  {
+    "tags": [
+    ],
+    "type": [
+      "iudx:Resource",
+      "iudx:EmergencyVehicle"
+    ],
+    "description": "Archive for the period Jan11-Jan20 2022",
+    "@context": "https://voc.iudx.org.in/",
+    "label": "Ambulance Positions for January 11 - January 20 2022",
+    "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+    "name": "ambulancejan11jan20",
+    "itemStatus": "ACTIVE",
+    "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/bangalore-ambulance",
+    "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/ambulance-data/ambulance_jan_11_20.parquet",
+    "instance": "sandbox"
+  },
+  {
+    "tags": [
+    ],
+    "type": [
+      "iudx:Resource",
+      "iudx:EmergencyVehicle"
+    ],
+    "description": "Archive for the period Jan21-Jan31 2022",
+    "@context": "https://voc.iudx.org.in/",
+    "label": "Ambulance Positions for January 21 - January 31 2022",
+    "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+    "name": "ambulancejan21jan31",
+    "itemStatus": "ACTIVE",
+    "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/bangalore-ambulance",
+    "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/ambulance-data/ambulance_jan_21_31.parquet",
+    "instance": "sandbox"
+  },
+  {
+    "tags": [
+    ],
+    "type": [
+      "iudx:Resource",
+      "iudx:EmergencyVehicle"
+    ],
+    "description": "Archive for the period Feb01-Feb10 2022",
+    "@context": "https://voc.iudx.org.in/",
+    "label": "Ambulance Positions for February 01 - February 10 2022",
+    "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+    "name": "ambulancefeb01feb10",
+    "itemStatus": "ACTIVE",
+    "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/bangalore-ambulance",
+    "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/ambulance-data/ambulance_feb_01_10.parquet",
+    "instance": "sandbox"
+  },
+  {
+    "tags": [
+    ],
+    "type": [
+      "iudx:Resource",
+      "iudx:EmergencyVehicle"
+    ],
+    "description": "Archive for the period Feb11-Feb20 2022",
+    "@context": "https://voc.iudx.org.in/",
+    "label": "Ambulance Positions for February 11 - February 20 2022",
+    "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+    "name": "ambulancefeb11feb20",
+    "itemStatus": "ACTIVE",
+    "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/bangalore-ambulance",
+    "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/ambulance-data/ambulance_feb_11_20.parquet",
+    "instance": "sandbox"
+  },
+  {
+    "tags": [
+    ],
+    "type": [
+      "iudx:Resource",
+      "iudx:EmergencyVehicle"
+    ],
+    "description": "Archive for the period Feb21-Feb28 2022",
+    "@context": "https://voc.iudx.org.in/",
+    "label": "Ambulance Positions for February 21 - February 28 2022",
+    "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+    "name": "ambulancefeb21feb28",
+    "itemStatus": "ACTIVE",
+    "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/bangalore-ambulance",
+    "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/ambulance-data/ambulance_feb_21_28.parquet",
+    "instance": "sandbox"
+  }
+]

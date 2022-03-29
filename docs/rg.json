@@ -1,0 +1,54 @@
+{
+      "accessPolicy": "OPEN",
+      "dataSample": {
+      },
+      "itemStatus": "ACTIVE",
+      "type": [
+        "iudx:ResourceGroup",
+        "iudx:TransitManagement"
+      ],
+      "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+      "iudxResourceAPIs": [
+        "ATTR",
+        "TEMPORAL"
+      ],
+      "location": {
+        "address": "Surat",
+        "type": "Place"
+      },
+      "@context": "https://voc.iudx.org.in/",
+      "tags": [
+        "itms",
+        "mobility",
+        "vehicle",
+        "transport",
+        "buses",
+        "gtfs",
+        "commute",
+        "route",
+        "bus tracking"
+      ],
+      "name": "surat-itms",
+      "description": "Surat transit management datasource is a rich and comprehensive GTFS based data stream of public transit operations in the city.  In this sandbox we show analysis on stop-to-stop coverage, temporal and spatial schedule-to-live conformance and show some intuitive and interactive plots to give a wholistic understanding on transit management systems.",
+      "resourceServer": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in",
+      "resourceType": "MESSAGESTREAM",
+      "label": "Surat Transit Management System",
+      "dataDescriptor": {
+      },
+      "repositoryURL": "https://github.com/datakaveri/sandbox-itms.git",
+      "referenceResources": [
+        {
+          "id": "suratmunicipal.org/6db486cb4f720e8585ba1f45a931c63c25dbbbda/rs.iudx.org.in/surat-itms-additional-info",
+          "name": "Static Transit Management data",
+          "description": "GTFS based static information of buses such as stops, routes, etc.",
+          "additionalInfoURL": "https://catalogue.iudx.org.in/dataset/suratmunicipal.org-6db486cb4f720e8585ba1f45a931c63c25dbbbda-rs.iudx.org.in-surat-itms-additional-info"
+        },{
+        "id": "suratmunicipal.org/6db486cb4f720e8585ba1f45a931c63c25dbbbda/rs.iudx.org.in/surat-itms-realtime-info",
+        "name": "Realtime Transit Management data",
+        "description": "Real time bus positions and daily trip schedules",
+        "additionalInfoURL": "https://catalogue.iudx.org.in/dataset/suratmunicipal.org-6db486cb4f720e8585ba1f45a931c63c25dbbbda-rs.iudx.org.in-surat-itms-realtime-info"
+        }
+      ],
+      "itemCreatedAt": "2021-07-05T12:05:26+0530",
+      "instance": "sandbox"
+}
