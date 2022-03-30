@@ -12,7 +12,7 @@
       "bus tracking"
     ],
     "type": [
-      "iudx:ResourceGroup",
+      "iudx:Resource",
       "iudx:TransitManagement"
     ],
     "description": "Two hours Bus Position data for 22 March 2022",
@@ -38,7 +38,7 @@
       "bus tracking"
     ],
     "type": [
-      "iudx:ResourceGroup",
+      "iudx:Resource",
       "iudx:TransitManagement"
     ],
     "description": "Routes taken by buses in Surat",
@@ -64,7 +64,7 @@
       "bus tracking"
     ],
     "type": [
-      "iudx:ResourceGroup",
+      "iudx:Resource",
       "iudx:TransitManagement"
     ],
     "description": "Bus stops in Surat",
