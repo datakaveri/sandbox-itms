@@ -29,7 +29,7 @@
         "bus tracking"
       ],
       "name": "surat-itms",
-      "description": "Surat transit management datasource is a rich and comprehensive GTFS based data stream of public transit operations in the city.  In this sandbox we show analysis on stop-to-stop coverage, temporal and spatial schedule-to-live conformance and show some intuitive and interactive plots to give a wholistic understanding on transit management systems.",
+      "description": "Surat transit management datasource is a rich and comprehensive GTFS based data stream of public transit operations in the city.  In this sandbox we show analysis on stop-to-stop coverage, temporal and spatial schedule-to-live conformance and show some intuitive and interactive plots to give a wholistic understanding on transit management systems. \n\n <br/>  <img src=\"https://raw.githubusercontent.com/datakaveri/sandbox-itms/main/docs/illustration.jpg\" alt=\"Smart Buses\" height=\"200\" width=\"300\"/> <img src=\"https://raw.githubusercontent.com/datakaveri/sandbox-itms/main/docs/analytic1.png\" alt=\"Analytic1\" height=\"200\" width=\"300\"/> \n\n <img src=\"https://raw.githubusercontent.com/datakaveri/sandbox-itms/main/docs/analytic2.png\" alt=\"Analytic2\" height=\"200\" width=\"300\"/>  <img src=\"https://raw.githubusercontent.com/datakaveri/sandbox-itms/main/docs/analytic3.png\" alt=\"Analytic3\" height=\"200\" width=\"300\"/>",
       "resourceServer": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in",
       "resourceType": "MESSAGESTREAM",
       "label": "Surat Transit Management System",
